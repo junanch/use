@@ -1,6 +1,6 @@
 # Use
 
-I am using.
+I am using
 
 ## Editor & Extensions
 
@@ -37,6 +37,8 @@ I am using.
 
 Arc, Chrome:
 
+> Arc navigation bar "View.ShowToolbar"
+
 - [Gitako](https://github.com/EnixCoda/Gitako) - file tree
 - [github-vscode-icons](https://github.com/dderevjanik/github-vscode-icons) - file/folder icons
 - [lovely-forks](https://github.com/musically-ut/lovely-forks) - 帮你注意到项目的重要分支
@@ -48,7 +50,7 @@ Arc, Chrome:
 - [NeatDownloadManager](https://chrome.google.com/webstore/detail/neatdownloadmanager-exten/cpcifbdmkopohnnofedkjghjiclmhdah) - 下载助手，配合 App 分段下载
 - [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) - 轻松管理多个代理
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - React 开发工具
-- [React1s](https://github.com/aaamoon/react1s) - 点击页面元素跳转到编辑器
+- [React1s](https://github.com/aaamoon/react1s) - 点击页面元素跳转到编辑器（会有无法跳转的情况）
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) - 技术分析器、识别网络技术
 - [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) -  RSS 订阅助手
 - [Inoreader RSS Reader](https://chrome.google.com/webstore/detail/rss-reader-extension-by-i/kfimphpokifbjgmjflanmfeppcjimgah) - Inoreader RSS 订阅阅读器
@@ -94,7 +96,7 @@ Safari:
 - [IINA](https://iina.io/) - 视频播放器
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - 控制显示屏亮度和音量
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - 键位修改
-- [iTerm](https://iterm2.com/) - CLI 终端
+- [iTerm](https://iterm2.com/) - CLI 客户端
 - [Fork](https://git-fork.com/) - Git GUI 客户端
 - [Charles](https://www.charlesproxy.com/) - 网络调试代理抓包
 - [MenubarX](https://menubarx.app/) - 菜单栏浏览器
@@ -112,3 +114,23 @@ Safari:
 - [1Password](https://1password.com/zh-cn) - 目前综合体验最好的密码管理工具
 - [Spark](https://sparkmailapp.com/) - 多个 Email 的邮件聚合管理
 - [Surge](https://nssurge.com/) - 高级网络工具箱适用于 Mac 和 iOS
+
+## Hardware
+
+- MacBook Pro 14' M1 Pro 16GB 
+- Mouse: Magic Trackpad, [Razer Pro Click](https://www.razer.com/sg-en/gaming-mice/razer-pro-click/RZ01-02990100-R3M1)
+- Keyboard: HHKB Pro 2 + [YDKB Bluetooth controller](https://ydkb.io/help/#/README)
+- AirPods
+
+## CLI
+
+- [`zsh`](https://zsh.org/)
+- [`ni`](https://github.com/antfu/ni)
+- [`n`](https://github.com/tj/n)
+- [`czg`](https://github.com/Zhengqbbb/cz-git)
+- [`fzf`](https://github.com/junegunn/fzf)
+- [`bat`](https://github.com/sharkdp/bat)
+- [`zoxide`](https://github.com/ajeetdsouza/zoxide)
+- [`tmux`](https://github.com/tmux/tmux/wiki)
+- [`brew`](https://brew.sh/)
+- [`mas`](https://github.com/mas-cli/mas)
