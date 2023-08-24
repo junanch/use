@@ -93,7 +93,7 @@ Safari:
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - 访达工具栏快速在终端中打开当前目录
 - [PictureView](https://wl879.github.io/apps/picview/) - 图片浏览应用
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/) - 内容切片下载, 不限速
-- [IINA](https://iina.io/) - 视频播放器
+- [VidHub](https://zh.okaapps.com/product/1659622164) - 视频播放器
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - 控制显示屏亮度和音量
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - 键位修改
 - [iTerm](https://iterm2.com/) - CLI 客户端
