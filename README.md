@@ -60,14 +60,15 @@ Arc, Chrome:
 - [Tampermonkey](https://www.tampermonkey.net/) - 使用社区的脚本，随心改变网页
 - [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) - 从几乎所有网站中删除 Cookie 警告
 - [1Password](https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa) - 密码管理，快捷自动填充
-- [immersive-translate](https://github.com/immersive-translate/immersive-translate) - 网页双语翻译
+- [Immersive Translate](https://github.com/immersive-translate/immersive-translate) - 网页双语翻译
 - [Readwise Highlighter](https://chrome.google.com/webstore/detail/readwise-highlighter/jjhefcfhmnkfeepcpnilbbkaadhngkbi) - Save a page to Readwise Reader
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - 浏览器 Vim 模式的快捷键
 - [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - 插件管理
+- [购物党自动比价工具](https://chrome.google.com/webstore/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah) - 浏览商品时显示历史价格，支持各大购物网站
 
 Safari:
 
-- [immersive-translate](https://apps.apple.com/us/app/immersive-translate/id6447957425) - 网页双语翻译，iOS/Mac 通用
+- [Immersive Translate](https://apps.apple.com/us/app/immersive-translate/id6447957425) - 网页双语翻译，iOS/Mac 通用
 - [1Blocker](https://1blocker.com/) - 广告拦截、自定义对你所选中的图片、元素进行隐藏，iOS/Mac 通用
 
 ## Raycast & Plugins
@@ -114,6 +115,8 @@ Safari:
 - [1Password](https://1password.com/zh-cn) - 目前综合体验最好的密码管理工具
 - [Spark](https://sparkmailapp.com/) - 多个 Email 的邮件聚合管理
 - [Surge](https://nssurge.com/) - 高级网络工具箱适用于 Mac 和 iOS
+- [CodePiper](https://apps.apple.com/us/app/code-piper/id1669959741?mt=12) - 自动复制 iMessage 短信验证码
+- [Proxyman](https://proxyman.io/) - Web 网络调试代理
 
 ## Hardware
 
