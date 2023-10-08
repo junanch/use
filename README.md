@@ -63,7 +63,7 @@ Arc, Chrome:
 - [Immersive Translate](https://github.com/immersive-translate/immersive-translate) - 网页双语翻译
 - [Readwise Highlighter](https://chrome.google.com/webstore/detail/readwise-highlighter/jjhefcfhmnkfeepcpnilbbkaadhngkbi) - Save a page to Readwise Reader
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - 浏览器 Vim 模式的快捷键
-- [Extension Manager](https://chrome.google.com/webstore/detail/extension-manager/gjldcdngmdknpinoemndlidpcabkggco) - 插件管理
+- [Extension Manager](https://github.com/JasonGrass/auto-extension-manager) - 插件管理
 - [购物党自动比价工具](https://chrome.google.com/webstore/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah) - 浏览商品时显示历史价格，支持各大购物网站
 
 Safari:
