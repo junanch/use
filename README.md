@@ -35,7 +35,7 @@ I am using
 
 ## Browser & Extensions
 
-Arc, Chrome:
+[Arc](https://arc.net/), [Chrome](https://www.google.com/chrome/):
 
 > Arc navigation bar "View.ShowToolbar"
 
@@ -66,7 +66,7 @@ Arc, Chrome:
 - [Extension Manager](https://github.com/JasonGrass/auto-extension-manager) - 插件管理
 - [购物党自动比价工具](https://chrome.google.com/webstore/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah) - 浏览商品时显示历史价格，支持各大购物网站
 
-Safari:
+[Safari](https://apps.apple.com/us/app/safari/id1146562112):
 
 - [Immersive Translate](https://apps.apple.com/us/app/immersive-translate/id6447957425) - 网页双语翻译，iOS/Mac 通用
 - [1Blocker](https://1blocker.com/) - 广告拦截、自定义对你所选中的图片、元素进行隐藏，iOS/Mac 通用
