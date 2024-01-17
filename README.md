@@ -8,8 +8,9 @@ I am using
 - Themes: [Moonlight II](https://github.com/atomiks/moonlight-vscode-theme), [Catpuccin](https://github.com/catppuccin/vscode), [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
 - Fonts: [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/), [MesLoLGS NF](https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#meslo-nerd-font-patched-for-powerlevel10k), [Jetbrains Mono](https://www.jetbrains.com/lp/mono/), [Fira Code](https://github.com/tonsky/FiraCode)
 - File Icons: [VSCode-icons](https://github.com/vscode-icons/vscode-icons), [Symbols](https://github.com/miguelsolorio/vscode-symbols)
-- AI Code: [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot), [Codeium](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium)
-- [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - 文本编辑器程序
+- AI Code: ~~[GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)~~, ~~[Codeium](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium)~~, [GPTAPI.US](https://www.gptapi.us/)
+- Input Sources: 双拼, macOS 搜狗, iOS 默认
+- [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - 文本编辑程序
 - [Pretty TypeScript Errors](https://github.com/yoavbls/pretty-ts-errors) - 漂亮的 TypeScript 错误提示
 - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - 代码片段
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) - 在树状视图中显示 TODO、FIXME 等注释标签
