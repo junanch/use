@@ -83,22 +83,23 @@ I am using
 - [Search npm Packages](https://www.raycast.com/mrmartineau/search-npm) - NPM 包快速搜索
 - [GitHub Repository Search](https://www.raycast.com/thomas/github-repository-search) - GitHub 仓库搜索
 - [Color Picker](https://www.raycast.com/thomas/color-picker) - 颜色拾取
-- [Antd](https://www.raycast.com/crazyair/antd-open-browser) - 快速打开 antd 文档
-- [Tailwind CSS](https://www.raycast.com/vimtor/tailwindcss) - CSS 实用工具
+- [Antd](https://www.raycast.com/crazyair/antd-open-browser) - 快速打开 Antd 文档
+- [Tailwind CSS](https://www.raycast.com/vimtor/tailwindcss) - tw 文档查询
 - [Google Workspace](https://www.raycast.com/raycast/google-workspace) - 访问谷歌云端硬盘文件
 - [Random Data Generator](https://www.raycast.com/loris/random) - 生成随机数据
 - [Image Modification](https://www.raycast.com/HelloImSteven/sips) - 图片格式转换
-- [ray.so](https://www.raycast.com/garrett/ray-so) - 创建您的代码的美丽图像
+- [Ray.so](https://www.raycast.com/garrett/ray-so) - 快速创建分享好看的 Code 片段图片
 - [Port Manager](https://www.raycast.com/lucaschultz/port-manager) - 管理关闭正在运行的端口
+- [Dub Link Shortener](https://www.raycast.com/quuu/dub-link-shortener) - 快速创建 Dub 短连接
 
 ## MacOS App
 
 - [LinearMouse](https://linearmouse.app/) - 支持为每个设备单独配置鼠标指针和滚轮的速度
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - 访达工具栏快速在终端中打开当前目录
 - [PictureView](https://wl879.github.io/apps/picview/) - 图片浏览应用
-- [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/) - 内容切片下载, 不限速
+- [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/) - 视频切片下载, 不限速
 - [IINA](https://iina.io/) - 视频播放器
-- [VidHub](https://zh.okaapps.com/product/1659622164) - 网盘视频播放器
+- [VidHub](https://zh.okaapps.com/product/1659622164) - 网盘、云盘视频播放器
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - 控制显示屏亮度和音量
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - 键位修改
 - [iTerm](https://iterm2.com/) - CLI 客户端
@@ -119,7 +120,8 @@ I am using
 - [1Password](https://1password.com/zh-cn) - 目前综合体验最好的密码管理工具
 - [Spark](https://sparkmailapp.com/) - 多个 Email 的邮件聚合管理
 - [Surge](https://nssurge.com/) - 高级网络工具箱适用于 Mac 和 iOS
-- [CodePiper](https://apps.apple.com/us/app/code-piper/id1669959741?mt=12) - 自动复制 iMessage 短信验证码
+- ~~[CodePiper](https://apps.apple.com/us/app/code-piper/id1669959741?mt=12) - 自动复制 iMessage 短信验证码~~
+- [MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取填充回车的 Mac 平台短信和邮箱验证码
 - [Proxyman](https://proxyman.io/) - Web 网络调试代理
 - [KeKa](https://www.keka.io/en/) - 文件压缩工具
 
