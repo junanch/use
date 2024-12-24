@@ -49,7 +49,6 @@ I am using
 - [NeatDownloadManager](https://chrome.google.com/webstore/detail/neatdownloadmanager-exten/cpcifbdmkopohnnofedkjghjiclmhdah) - 下载助手，配合 App 分段下载
 - [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif) - 轻松管理多个代理
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - React 开发工具
-- [React1s](https://github.com/aaamoon/react1s) - 点击页面元素跳转到编辑器（会有无法跳转的情况）
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) - 技术分析器、识别网络技术
 - [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) -  RSS 订阅助手
 - [Inoreader RSS Reader](https://chrome.google.com/webstore/detail/rss-reader-extension-by-i/kfimphpokifbjgmjflanmfeppcjimgah) - Inoreader RSS 订阅阅读器
@@ -92,7 +91,7 @@ I am using
 - [Port Manager](https://www.raycast.com/lucaschultz/port-manager) - 管理关闭正在运行的端口
 - [Dub Link Shortener](https://www.raycast.com/quuu/dub-link-shortener) - 快速创建 Dub 短连接
 
-## MacOS App
+## MacOS/iOS App
 
 - [LinearMouse](https://linearmouse.app/) - 支持为每个设备单独配置鼠标指针和滚轮的速度
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - 访达工具栏快速在终端中打开当前目录
@@ -102,7 +101,7 @@ I am using
 - [VidHub](https://zh.okaapps.com/product/1659622164) - 网盘、云盘视频播放器
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - 控制显示屏亮度和音量
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - 键位修改
-- [iTerm](https://iterm2.com/) - CLI 客户端
+- [iTerm](https://iterm2.com/) - CLI 客户端 (相较于 Warp 终端 iTerm 支持 Vim 模式)
 - [Fork](https://git-fork.com/) - Git GUI 客户端
 - [Charles](https://www.charlesproxy.com/) - 网络调试代理抓包
 - [MenubarX](https://menubarx.app/) - 菜单栏浏览器
@@ -124,13 +123,18 @@ I am using
 - [MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取填充回车的 Mac 平台短信和邮箱验证码
 - [Proxyman](https://proxyman.io/) - Web 网络调试代理
 - [KeKa](https://www.keka.io/en/) - 文件压缩工具
+- [Cookie 记账](https://apps.apple.com/cn/app/cookie-%E8%AE%B0%E8%B4%A6/id1559943673) - 记账工具
+- [Things](https://culturedcode.com/things/) - TODO 管理 (iOS购买云同步,Mac黑魔法)
+- [ChatX](https://apps.apple.com/cn/app/chatx-ai-%E6%99%BA%E8%83%BD%E9%97%AE%E7%AD%94-%E7%BF%BB%E8%AF%91-%E5%86%99%E4%BD%9C-%E7%BB%98%E7%94%BB-%E8%AF%AD%E9%9F%B3-%E6%A8%A1%E5%9E%8B/id6446304087) - AI套壳聊天机器人（双端同步历史记录）
+- [OpenCat](https://opencat.app/zh-Hans/) - 同上
+- [Alook](https://www.alook.com/) - 浏览器 (小说阅读模式屏蔽澳门荷官)
 
 ## Hardware
 
 - MacBook Pro 14' M1 Pro 16GB
 - Mouse: Magic Trackpad, [Razer Pro Click](https://www.razer.com/sg-en/gaming-mice/razer-pro-click/RZ01-02990100-R3M1)
 - Keyboard: HHKB Pro 2 + [YDKB Bluetooth controller](https://ydkb.io/help/#/README)
-- AirPods
+- AirPods2/Pro - 换着充电
 
 ## CLI
 
