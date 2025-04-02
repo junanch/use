@@ -4,12 +4,11 @@ I am using
 
 ## Editor & Extensions
 
-- Editor: [VS Code](https://code.visualstudio.com/)
-- Themes: [Moonlight II](https://github.com/atomiks/moonlight-vscode-theme), [Catpuccin](https://github.com/catppuccin/vscode), [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
+- Editor: ~~[VS Code](https://code.visualstudio.com/)~~, [Cursor](https://www.cursor.com/)
+- Themes: [Min Light](https://github.com/miguelsolorio/min-theme), [Moonlight II](https://github.com/atomiks/moonlight-vscode-theme), ~~[Catpuccin](https://github.com/catppuccin/vscode)~~, ~~[One Dark Pro](https://github.com/Binaryify/OneDark-Pro)~~
 - Fonts: [Berkeley Mono](https://berkeleygraphics.com/typefaces/berkeley-mono/), [MesLoLGS NF](https://github.com/romkatv/powerlevel10k?tab=readme-ov-file#meslo-nerd-font-patched-for-powerlevel10k), [Jetbrains Mono](https://www.jetbrains.com/lp/mono/), [Fira Code](https://github.com/tonsky/FiraCode)
-- File Icons: [VSCode-icons](https://github.com/vscode-icons/vscode-icons), [Symbols](https://github.com/miguelsolorio/vscode-symbols)
-- AI Code: ~~[GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)~~, ~~[Codeium](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium)~~, [GPTAPI.US](https://www.gptapi.us/)
-- Input Sources: 双拼, macOS 搜狗, iOS 默认
+- File Icons: [VSCode Icons](https://github.com/vscode-icons/vscode-icons), [Symbols](https://github.com/miguelsolorio/vscode-symbols)
+- Input Sources: 双拼(macOS 搜狗/iOS 默认)
 - [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) - 文本编辑程序
 - [Pretty TypeScript Errors](https://github.com/yoavbls/pretty-ts-errors) - 漂亮的 TypeScript 错误提示
 - [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - 代码片段
@@ -58,18 +57,20 @@ I am using
 - [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) - 从几乎所有网站中删除 Cookie 警告
 - [1Password](https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa) - 密码管理，快捷自动填充
 - [Immersive Translate](https://github.com/immersive-translate/immersive-translate) - 网页双语翻译
-- [Relingo](https://relingo.net/) - 网页文字翻译、YouTube 视频字幕翻译
+- ~~[Relingo](https://relingo.net/) - 网页文字翻译、YouTube 视频字幕翻译~~
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - 浏览器 Vim 模式的快捷键
 - [Extension Manager](https://github.com/JasonGrass/auto-extension-manager) - 插件管理
 - [购物党自动比价工具](https://chrome.google.com/webstore/detail/%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7/jgphnjokjhjlcnnajmfjlacjnjkhleah) - 浏览商品时显示历史价格，支持各大购物网站
 
-[Safari](https://apps.apple.com/us/app/safari/id1146562112):
+[Safari](https://apps.apple.com/us/app/safari/id1146562112): iOS Safari 插件
 
-- [Immersive Translate](https://apps.apple.com/us/app/immersive-translate/id6447957425) - 网页双语翻译，iOS/Mac 通用
-- [Relingo](https://relingo.net/) - 网页文字翻译、YouTube 视频字幕翻译
+- [Immersive Translate](https://apps.apple.com/us/app/immersive-translate/id6447957425) - Safari 段落左滑翻译
+- [欧路词典](https://www.eudic.net/) - Safari 单词单击显示定义
+- ~~[Relingo](https://relingo.net/) - 网页文字翻译、YouTube 视频字幕翻译~~
 - [1Blocker](https://1blocker.com/) - 广告拦截、自定义对你所选中的图片、元素进行隐藏，iOS/Mac 通用
 - [1Password](https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa) - 密码管理，快捷自动填充
 - [深色模式](https://apps.apple.com/cn/app/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F-dark-mode/id1598289263) - 网页适配深色模式
+- [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887) - 用户脚本和样式管理器
 
 ## Raycast & Plugins
 
@@ -98,7 +99,7 @@ I am using
 - [PictureView](https://wl879.github.io/apps/picview/) - 图片浏览应用
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/) - 视频切片下载, 不限速
 - [IINA](https://iina.io/) - 视频播放器
-- ~~[VidHub](https://zh.okaapps.com/product/1659622164) - 网盘、云盘视频播放器~~ (夸克网盘/88VIP-生活卡)
+- ~~[VidHub](https://zh.okaapps.com/product/1659622164) - 网盘、云盘视频播放器~~ (夸克网盘/88VIP生活卡)
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - 控制显示屏亮度和音量
 - [Karabiner-Elements](https://karabiner-elements.pqrs.org/) - 键位修改
 - [iTerm](https://iterm2.com/) - CLI 客户端 (相较于 Warp 终端 iTerm 支持 Vim 模式)
@@ -113,7 +114,7 @@ I am using
 - [Bartender](https://www.macbartender.com/) - 菜单栏图标管理
 - [CleanShot X](https://cleanshot.com/) - 滚动长截图、Gif/Video 录制、截图标注/分享
 - [Bob](https://bobtranslate.com/) - 翻译和 OCR 软件
-- ~~[Drafts](https://getdrafts.com/) - 草稿~~ (AppleNotes + ProNotes)
+- ~~[Drafts](https://getdrafts.com/) - 草稿~~ (AppleNotes + [ProNotes](https://www.pronotes.app/))
 - [Obsidian](https://obsidian.md/) - 本地笔记编辑、存档，iOS 搜索
 - ~~[Typora](https://typora.io/) - Markdown 编辑器~~
 - [1Password](https://1password.com/zh-cn) - 目前综合体验最好的密码管理工具
@@ -124,17 +125,18 @@ I am using
 - [Proxyman](https://proxyman.io/) - Web 网络调试代理
 - [KeKa](https://www.keka.io/en/) - 文件压缩工具
 - [Cookie 记账](https://apps.apple.com/cn/app/cookie-%E8%AE%B0%E8%B4%A6/id1559943673) - 记账工具
-- [Things](https://culturedcode.com/things/) - TODO 管理 (iOS购买云同步，Mac黑魔法)
+- [Things](https://culturedcode.com/things/) - TODO 管理 (iOS购买云同步，Mac黑魔法使用)
 - ~~[ChatX](https://apps.apple.com/cn/app/chatx-ai-%E6%99%BA%E8%83%BD%E9%97%AE%E7%AD%94-%E7%BF%BB%E8%AF%91-%E5%86%99%E4%BD%9C-%E7%BB%98%E7%94%BB-%E8%AF%AD%E9%9F%B3-%E6%A8%A1%E5%9E%8B/id6446304087) - AI套壳聊天机器人（双端同步历史记录）~~
 - ~~[OpenCat](https://opencat.app/zh-Hans/) - 同上~~
 - [Alook](https://www.alook.com/) - 浏览器 (小说阅读模式屏蔽广告)
+- [欧路词典](https://www.eudic.net/) - 搜索查询单词定义，同步生词本
 
 ## Hardware
 
 - MacBook Pro 14' M1 Pro 16GB
 - Mouse: Magic Trackpad, [Razer Pro Click](https://www.razer.com/sg-en/gaming-mice/razer-pro-click/RZ01-02990100-R3M1)
 - Keyboard: HHKB Pro 2 + [YDKB Bluetooth Controller](https://ydkb.io/help/#/README)
-- AirPods2 + Pro - 换着充电
+- AirPods2 + Pro - 充电换着用，不喜欢头戴式压耳
 
 ## CLI
 
